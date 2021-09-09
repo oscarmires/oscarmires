@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oscarmires
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning and full-stack development
 - 🌱 I’m currently learning data science with Python
 - 📫 How to reach me: https://www.linkedin.com/in/oscarmires/
 
